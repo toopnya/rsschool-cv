@@ -1,0 +1,22 @@
+@font-face {
+    font-family: "Roboto";
+     src: url("../fonts/Roboto-Medium.ttf");
+     font-style: normal;
+     font-weight: normal;
+   }
+@font-face {
+    font-family: "Popins";
+    src: url("../fonts/Poppins/Poppins-Bold.ttf");
+    font-weight: 300;
+  }
+
+.bold-text {
+    font-family:"Popins", serif;
+    font-weight: bold;
+    font-size: 800;
+}
+
+.medium-text {
+    font-family: "Roboto", serif;
+    font-size: 500;
+}
