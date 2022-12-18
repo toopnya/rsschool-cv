@@ -1,0 +1,59 @@
+body {
+    font-family: 'Popins', sans-serif;
+    font-size: 16px;
+    flex-direction: column;
+    font-weight: 400;
+    line-height: 1.5;
+      }
+  .container {
+    display: flex;
+    justify-content: space-around;
+  }
+    .section {
+    max-width: 1440px;
+    margin: 0 auto;
+  }
+.nav-link {
+  color: rgb(137, 139, 224);
+  text-decoration: none;
+}
+.nav-link:hover { 
+  text-decoration: underline;
+}
+  .card {
+    padding: 20px;
+    background-color: #999692;
+
+  }
+  .phone {
+	color: rgb(175, 195, 121);
+	text-decoration: none;
+}
+.phone:hover { 
+    text-decoration: underline;
+}
+.email {
+	color: rgb(175, 195, 121);
+	text-decoration: none;
+}
+.email:hover { 
+    text-decoration: underline;
+}
+.github {
+  color: rgb(175, 195, 121);
+	text-decoration: none;
+}
+.github:hover { 
+  text-decoration: underline;
+}
+.foooter {
+  background-color: #999692;
+}
+.nav {
+  background-color:rgb(175, 195, 121); ;
+}
+.summary {
+  background-color:rgb(202, 209, 183); ; ;
+}]
+
+
